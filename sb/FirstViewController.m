@@ -19,7 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    //sb test
+    //sb test now from second comp
 }
 
 - (void)didReceiveMemoryWarning
